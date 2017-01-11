@@ -1,0 +1,5 @@
+1.先备份obd_stock_info表数据
+2.先备份car_oil_info表数据，和meb_user表
+3.先备份obd2.0数据库
+3.新建一个obd的数据库，将obd1.0的数据库数据备份到该数据库。
+4.新建obd2-test的数据库，将obd2.0的数据库数据备份到该数据库。
